@@ -5,7 +5,18 @@
 	<groupId>de.gwasch.code.demothreadpool</groupId>
 	<artifactId>demothreadpool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
 	<name>demothreadpool</name>
+	<url>http://gwasch.de</url>
+	
+	<developers>
+		<developer>
+	    	<id>chsi</id>
+	      	<name>Christian Silberbauer</name>
+	      	<email>christian.silberbauer@gwasch.de</email>
+		</developer>
+	</developers>	
+		
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>20</maven.compiler.source>
