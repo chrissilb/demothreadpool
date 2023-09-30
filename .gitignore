@@ -53,3 +53,8 @@ buildNumber.properties
 # Javadoc
 # -----------------------------------
 doc/
+
+
+# Eclipse
+# -----------------------------------
+.settings/
