@@ -7,7 +7,7 @@ import de.gwasch.code.demothreadpool.events.DeactivateRunnable;
 import de.gwasch.code.demothreadpool.events.WorkAction;
 import de.gwasch.code.escframework.events.events.MainPushAction;
 import de.gwasch.code.escframework.events.events.TimerAction;
-import de.gwasch.code.escframework.events.handler.StateAdapter;
+import de.gwasch.code.escframework.events.listeners.StateAdapter;
 import de.gwasch.code.escframework.events.processors.Dispatcher;
 import de.gwasch.code.escframework.events.processors.Executor;
 import de.gwasch.code.escframework.events.processors.ManagedThread;
