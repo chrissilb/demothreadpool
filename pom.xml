@@ -4,7 +4,7 @@
   	<parent>
 	    <groupId>de.gwasch.code.parent</groupId>
 	    <artifactId>parent</artifactId>
-	    <version>0.0.1-SNAPSHOT</version>
+	    <version>0.0.2</version>
   	</parent>
   	
 	<groupId>de.gwasch.code.demothreadpool</groupId>
@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>de.gwasch.code.escframework</groupId>
 			<artifactId>escframework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 
