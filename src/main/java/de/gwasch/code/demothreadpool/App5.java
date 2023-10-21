@@ -71,7 +71,7 @@ public class App5 {
 		
 		p.activate();
 		
-		for (int i = 0; i < 20; i++ ) {
+		for (int i = 0; i < 10; i++ ) {
 			p.process(new WorkAction("wp1"));
 		}
 		p.process(new WorkAction("wp2", System.currentTimeMillis() + 2000));
