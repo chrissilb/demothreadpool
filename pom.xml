@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>de.gwasch.code.escframework</groupId>
 			<artifactId>escframework</artifactId>
-			<version>0.0.2</version>
+			<version>0.0.3</version>
 		</dependency>
 	</dependencies>
 
